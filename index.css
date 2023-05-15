@@ -1,0 +1,41 @@
+.H1{
+    text-align: center;
+}
+.H2{
+    display: flex;
+}
+.H2T{
+    padding: 10mm;
+}
+.D1{
+    display: flex;
+    color: red;
+}
+.D2{
+    display: flex;
+    color: red;   
+}
+.D11{
+    padding: 25px;
+    
+}
+.F1{
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+}
+.F2{
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+}
+.imgF{
+    display: flex;
+    justify-content: center;
+}
+.DF{
+    padding: 10mm;
+}
+.HF{
+    text-align: center;
+}
